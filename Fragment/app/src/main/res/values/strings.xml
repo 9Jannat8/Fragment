@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+     <string name="bangladesh">
+         \nName           : Bangladesh
+         \nPopulation     : 16 million
+         \nStudent\'s Name : Jannat
+     </string>
+
+    <string name="india">
+         \nName           : India
+         \nPopulation     : 20 million
+         \nStudent\'s Name : Sabrina
+     </string>
+
+    <string name="japan">
+         \nName           : Japan
+         \nPopulation     : 14 million
+         \nStudent\'s Name : Mamun
+     </string>
+</resources>
